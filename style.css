@@ -1,0 +1,57 @@
+*{
+  margin:0 ;
+  padding:0 ;
+}
+
+nav{
+  background-color: skyblue;
+}
+
+
+a{
+  color: black;
+  font-size: larger;
+  font-weight: bold;
+  padding-right: 30px;
+}
+
+.logo{
+  color: black;
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+.notes{
+  color: rgb(113, 200, 235);
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+.cardbody{
+  border: none;
+}
+
+.card0{
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  border: none;
+}
+
+footer{
+  padding-top: 82px;
+}
+
+.last-text{
+  background-color: skyblue;
+  color: black;
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+  padding: 20px 0 0 0;
+}
